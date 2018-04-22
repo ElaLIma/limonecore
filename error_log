@@ -1,0 +1,878 @@
+[30-Dec-2017 18:21:00 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function insert() on array in /home/berigayo/limonecore/dbconnection.php:51
+Stack trace:
+#0 /home/berigayo/limonecore/test.php(86): dbInsert(Object(Medoo\Medoo), 'gepress', Array)
+#1 {main}
+  thrown in /home/berigayo/limonecore/dbconnection.php on line 51
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:54 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:55 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:55 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:55 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:55 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:11:55 Etc/GMT] PHP Notice:  Use of undefined constant lgc - assumed 'lgc' in /home/berigayo/limonecore/test.php on line 53
+[30-Dec-2017 19:14:15 Etc/GMT] PHP Notice:  Use of undefined constant localhost - assumed 'localhost' in /home/berigayo/limonecore/conf.php on line 3
+[30-Dec-2017 19:14:17 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function insert() on array in /home/berigayo/limonecore/dbconnection.php:51
+Stack trace:
+#0 /home/berigayo/limonecore/test.php(85): dbInsert(Object(Medoo\Medoo), 'gepress', Array)
+#1 {main}
+  thrown in /home/berigayo/limonecore/dbconnection.php on line 51
+[30-Dec-2017 19:29:05 Etc/GMT] PHP Notice:  Use of undefined constant localhost - assumed 'localhost' in /home/berigayo/limonecore/conf.php on line 3
+[30-Dec-2017 20:21:37 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client in /home/berigayo/limonecore/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/berigayo/limonecore/dbconnection.php(32): Medoo\Medoo->__construct(Array)
+#1 /home/berigayo/limonecore/test.php(5): dbConnect()
+#2 {main}
+  thrown in /home/berigayo/limonecore/vendor/catfan/medoo/src/Medoo.php on line 239
+[30-Dec-2017 20:22:48 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client in /home/berigayo/limonecore/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/berigayo/limonecore/dbconnection.php(32): Medoo\Medoo->__construct(Array)
+#1 /home/berigayo/limonecore/test.php(5): dbConnect()
+#2 {main}
+  thrown in /home/berigayo/limonecore/vendor/catfan/medoo/src/Medoo.php on line 239
+[30-Dec-2017 20:26:06 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client in /home/berigayo/limonecore/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/berigayo/limonecore/dbconnection.php(32): Medoo\Medoo->__construct(Array)
+#1 /home/berigayo/limonecore/test.php(5): dbConnect()
+#2 {main}
+  thrown in /home/berigayo/limonecore/vendor/catfan/medoo/src/Medoo.php on line 239
+[20-Jan-2018 19:27:09 Etc/GMT] PHP Notice:  Undefined index: guid in /home/berigayo/limonecore/fetchWpRestApiData.php on line 40
+[20-Jan-2018 19:39:59 Etc/GMT] PHP Notice:  Undefined index: guid in /home/berigayo/limonecore/fetchWpRestApiData.php on line 40
+[21-Jan-2018 01:21:49 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function utf8_encode_deep() in /home/berigayo/limonecore/test.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/berigayo/limonecore/test.php on line 82
+[21-Jan-2018 01:29:26 Etc/GMT] PHP Notice:  Undefined index: guid in /home/berigayo/limonecore/fetchWpRestApiData.php on line 40
+[21-Jan-2018 01:34:58 Etc/GMT] PHP Notice:  Undefined index: guid in /home/berigayo/limonecore/fetchWpRestApiData.php on line 40
+[21-Jan-2018 01:40:10 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:40:11 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:40:11 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:40:12 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:40:12 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:40:13 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:40:14 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:40:14 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:40:15 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:40:15 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:41:00 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:41:05 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:41:10 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:41:14 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:41:18 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:41:20 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:41:25 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:41:30 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:41:34 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:41:38 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:41:48 Etc/GMT] PHP Warning:  DOMDocument::load(http://www.lagacetadeguinea.com/feed.xml): failed to open stream: HTTP request failed! HTTP/1.1 500 Server Error
+ in /home/berigayo/limonecore/test.php on line 20
+[21-Jan-2018 01:41:53 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:41:55 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:41:57 Etc/GMT] PHP Notice:  Undefined index: guid in /home/berigayo/limonecore/fetchWpRestApiData.php on line 40
+[21-Jan-2018 01:41:57 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:41:59 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:42:00 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:42:01 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:42:03 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:42:04 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:42:05 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 01:42:07 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:11:57 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:11:58 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:11:58 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:11:59 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:12:00 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:12:00 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:12:01 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:12:01 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:12:02 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:12:03 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:12:48 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:12:49 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:12:51 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:12:52 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:12:53 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:12:54 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:12:56 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:12:57 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:12:58 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:12:59 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:13:09 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:13:11 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:13:13 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:13:15 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:13:16 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:13:18 Etc/GMT] PHP Notice:  Undefined index: guid in /home/berigayo/limonecore/fetchWpRestApiData.php on line 40
+[21-Jan-2018 16:13:18 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:13:19 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:13:21 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:13:22 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[21-Jan-2018 16:13:24 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 19:59:20 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 19:59:20 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 19:59:21 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 19:59:22 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 19:59:23 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 19:59:24 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 19:59:24 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 19:59:25 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 19:59:26 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 19:59:27 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:00:47 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:00:47 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:00:48 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:00:49 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:00:50 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:00:50 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:00:51 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:00:52 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:00:53 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:00:53 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:01:38 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:01:39 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:01:40 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:01:41 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:01:43 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:01:44 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:01:45 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:01:47 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:01:48 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:01:49 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:01:58 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:02:00 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:02:02 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:02:04 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:02:06 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:02:07 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:02:09 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:02:11 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:02:13 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[07-Feb-2018 20:02:14 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:47:21 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:47:22 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:47:22 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:47:23 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:47:23 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:47:24 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:47:24 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:47:24 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:47:24 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:47:25 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:47:25 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:47:25 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:47:25 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:47:26 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:47:26 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:47:26 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:47:26 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:47:27 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:47:27 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:47:28 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:47:30 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:31 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:32 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:34 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:35 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:36 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:37 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:39 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:40 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:42 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:43 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:44 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:45 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:46 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:48 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:49 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:50 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:51 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:53 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:54 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:55 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:56 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:57 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:47:59 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:00 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:01 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:03 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:04 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:05 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:07 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:09 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:10 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:10 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:11 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:11 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:12 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:12 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:13 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:13 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:14 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:14 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:16 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:16 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:17 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:17 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:18 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:18 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:19 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:19 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:20 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:21 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:21 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:21 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:21 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:21 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:22 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:22 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:22 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:22 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:22 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:22 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:22 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:22 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:23 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:23 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:23 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:23 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:23 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 19:48:27 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:28 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:28 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:30 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:30 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:32 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:32 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:34 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:34 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:35 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:35 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:36 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:36 Etc/GMT] PHP Notice:  iconv(): Detected an illegal character in input string in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:36 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:38 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:38 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:40 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:40 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:41 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:41 Etc/GMT] PHP Notice:  iconv(): Detected an illegal character in input string in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 19:48:41 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 19:48:43 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 20:59:16 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 20:59:16 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 20:59:16 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 20:59:17 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 20:59:17 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 20:59:17 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 20:59:17 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 20:59:18 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 20:59:18 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 20:59:19 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 20:59:19 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 20:59:19 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 20:59:19 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 20:59:20 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 20:59:20 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 20:59:21 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 20:59:21 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 20:59:21 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 20:59:21 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 20:59:22 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 20:59:25 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:26 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:27 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:28 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:30 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:31 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:32 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:33 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:34 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:35 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:37 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:38 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:39 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:41 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:42 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:43 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:44 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:45 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:47 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:48 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:49 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:50 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:52 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:53 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:55 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:56 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:57 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:58 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 20:59:59 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:00:01 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:16 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:02:17 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:02:17 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:02:17 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:02:17 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:02:18 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:02:18 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:02:18 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:02:18 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:02:19 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:02:19 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:02:20 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:02:20 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:02:20 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:02:20 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:02:21 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:02:21 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:02:21 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:02:21 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:02:22 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:02:24 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:25 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:27 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:28 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:30 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:31 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:32 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:34 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:35 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:36 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:38 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:39 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:40 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:42 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:43 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:44 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:46 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:47 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:49 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:50 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:52 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:53 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:54 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:56 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:57 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:02:58 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:00 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:01 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:03 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:04 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:06 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:08 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:03:08 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:08 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:03:08 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:10 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:03:10 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:10 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:03:10 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:12 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:03:12 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:13 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:03:13 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:14 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:03:14 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:15 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:03:15 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:16 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:03:16 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:17 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:03:19 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:19 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:19 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:19 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:19 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:19 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:19 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:19 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:19 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:19 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:19 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:19 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:19 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:20 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:20 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:20 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:20 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:20 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[15-Feb-2018 21:03:24 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:26 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:03:26 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:28 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:03:28 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:29 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:03:29 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:30 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:03:30 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:32 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:03:32 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:33 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:03:33 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:35 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:03:35 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:37 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:03:37 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:38 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[15-Feb-2018 21:03:38 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[15-Feb-2018 21:03:39 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:27:19 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:27:19 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:27:19 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:27:20 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:27:20 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:27:21 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:27:21 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:27:22 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:27:22 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:27:22 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:27:22 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:27:23 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:27:23 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:27:24 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:27:24 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:27:24 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:27:24 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:27:25 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:27:25 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:27:25 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:27:27 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:29 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:30 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:32 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:33 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:34 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:36 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:37 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:38 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:40 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:41 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:42 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:44 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:45 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:46 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:48 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:49 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:50 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:51 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:53 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:54 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:55 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:57 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:58 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:27:59 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:28:01 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:28:02 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:28:03 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:28:05 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:28:06 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:28:09 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:11 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:11 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:12 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:12 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:14 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:14 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:15 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:15 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:16 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:16 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:18 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:18 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:19 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:19 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:20 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:20 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:21 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:21 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:23 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:24 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:28:24 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:28:24 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:28:24 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:28:24 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:28:24 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:28:24 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:28:24 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:28:24 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:28:24 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:28:24 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:28:24 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:28:24 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/berigayo/limonecore/dbconnection.php on line 58
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'title' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 6
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'rendered' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 6
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'link' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 21
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'content' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 11
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'rendered' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 11
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'date' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 16
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset '_links' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 31
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'wp:featuredmedia' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 31
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'href' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 40
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'excerpt' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 26
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'rendered' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 26
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'title' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 6
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'rendered' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 6
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'link' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 21
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'content' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 11
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'rendered' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 11
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'date' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 16
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset '_links' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 31
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'wp:featuredmedia' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 31
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'href' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 40
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'excerpt' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 26
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Warning:  Illegal string offset 'rendered' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 26
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Notice:  Undefined index: title in /home/berigayo/limonecore/fetchWpRestApiData.php on line 6
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Notice:  Undefined index: link in /home/berigayo/limonecore/fetchWpRestApiData.php on line 21
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Notice:  Undefined index: content in /home/berigayo/limonecore/fetchWpRestApiData.php on line 11
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Notice:  Undefined index: date in /home/berigayo/limonecore/fetchWpRestApiData.php on line 16
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Notice:  Undefined index: _links in /home/berigayo/limonecore/fetchWpRestApiData.php on line 31
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Notice:  Undefined index: excerpt in /home/berigayo/limonecore/fetchWpRestApiData.php on line 26
+[19-Feb-2018 12:28:25 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:28 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:30 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:30 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:31 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:31 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:33 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:33 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:35 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:35 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:36 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:36 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:37 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:37 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:39 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:39 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:41 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:41 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:42 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:28:42 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:28:44 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:36:40 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:36:41 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:36:41 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:36:42 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:36:42 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:36:42 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:36:42 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:36:43 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:36:43 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:36:43 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:36:43 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:36:44 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:36:44 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:36:44 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:36:44 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:36:45 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:36:45 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:36:46 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:36:46 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:36:46 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:28 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:29 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:29 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:29 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:29 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:29 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:29 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:30 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:30 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:30 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:30 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:30 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:30 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:31 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:31 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:31 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:31 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:31 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:31 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:31 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'title' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 6
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'rendered' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 6
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'link' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 21
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'content' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 11
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'rendered' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 11
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'date' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 16
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset '_links' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 31
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'wp:featuredmedia' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 31
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'href' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 40
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'excerpt' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 26
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'rendered' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 26
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'title' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 6
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'rendered' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 6
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'link' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 21
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'content' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 11
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'rendered' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 11
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'date' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 16
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset '_links' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 31
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'wp:featuredmedia' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 31
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'href' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 40
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'excerpt' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 26
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Warning:  Illegal string offset 'rendered' in /home/berigayo/limonecore/fetchWpRestApiData.php on line 26
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Notice:  Undefined index: title in /home/berigayo/limonecore/fetchWpRestApiData.php on line 6
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Notice:  Undefined index: link in /home/berigayo/limonecore/fetchWpRestApiData.php on line 21
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Notice:  Undefined index: content in /home/berigayo/limonecore/fetchWpRestApiData.php on line 11
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Notice:  Undefined index: date in /home/berigayo/limonecore/fetchWpRestApiData.php on line 16
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Notice:  Undefined index: _links in /home/berigayo/limonecore/fetchWpRestApiData.php on line 31
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Notice:  Undefined index: excerpt in /home/berigayo/limonecore/fetchWpRestApiData.php on line 26
+[19-Feb-2018 12:37:34 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:36 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:38 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:38 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:39 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:39 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:41 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:41 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:43 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:43 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:45 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:45 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:47 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:47 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:48 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:48 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:50 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:50 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:51 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:37:51 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:37:53 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:49:44 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:49:44 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:49:44 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:49:46 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:49:46 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:49:46 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:49:46 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:49:47 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:49:47 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:49:48 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:49:48 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:49:48 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:49:48 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:49:49 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:49:49 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:49:49 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:49:49 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:49:50 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:49:50 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:49:50 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:50:35 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:50:37 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:50:37 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:50:39 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:50:39 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:50:40 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:50:40 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:50:42 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:50:42 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:50:44 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:50:44 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:50:45 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:50:45 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:50:46 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:50:46 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:50:47 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:50:47 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:50:49 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:50:49 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:50:51 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:50:52 Etc/GMT] PHP Notice:  Undefined index: fetchType in /home/berigayo/limonecore/test.php on line 8
+[19-Feb-2018 12:50:52 Etc/GMT] PHP Notice:  Undefined index: fetchType in /home/berigayo/limonecore/test.php on line 77
+[19-Feb-2018 12:50:56 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:50:58 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:50:58 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:51:00 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:51:00 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:51:01 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:51:01 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:51:03 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:51:03 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:51:05 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:51:05 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:51:07 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:51:07 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:51:08 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:51:08 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:51:10 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:51:10 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:51:12 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:51:12 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 85
+[19-Feb-2018 12:51:13 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 89
+[19-Feb-2018 12:51:46 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:51:46 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:51:46 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:51:47 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:51:47 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:51:48 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:51:48 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:51:49 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:51:49 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:51:49 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:51:49 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:51:50 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:51:50 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:51:51 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:51:51 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:51:51 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:51:51 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:51:52 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:51:52 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:51:52 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:52:35 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:52:35 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:52:35 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:52:35 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:52:35 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:52:36 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:52:36 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:52:36 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:52:36 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:52:36 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:52:36 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:52:36 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:52:36 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:52:37 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:52:37 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:52:37 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:52:37 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:52:37 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:52:37 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:52:38 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:52:47 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:52:48 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:52:48 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:52:50 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:52:50 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:52:52 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:52:52 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:52:53 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:52:53 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:52:55 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:52:55 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:52:56 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:52:56 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:52:58 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:52:58 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:52:59 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:52:59 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:53:01 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:53:01 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:53:02 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:55:12 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:55:13 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:55:13 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:55:13 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:55:13 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:55:14 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:55:14 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:55:14 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:55:14 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:55:15 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:55:15 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:55:16 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:55:16 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:55:16 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:55:16 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:55:17 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:55:17 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:55:17 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:55:17 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:55:18 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:00 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:00 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:00 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:01 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:01 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:01 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:01 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:01 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:01 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:01 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:01 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:02 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:02 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:02 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:02 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:02 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:02 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:03 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:03 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:03 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:11 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:13 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:13 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:14 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:14 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:16 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:16 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:17 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:17 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:19 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:19 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:20 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:20 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:21 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:21 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:23 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:23 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:24 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90
+[19-Feb-2018 12:56:24 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 86
+[19-Feb-2018 12:56:26 Etc/GMT] PHP Notice:  Use of undefined constant strict - assumed 'strict' in /home/berigayo/limonecore/test.php on line 90

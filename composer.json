@@ -1,0 +1,8 @@
+{
+    
+    "require": {
+        "catfan/Medoo": "^1.5",
+        "geckob/firebase": "^1.0",
+        "ktamas77/firebase-php": "dev-master"
+    }
+}

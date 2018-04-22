@@ -1,0 +1,8 @@
+<?php
+
+define("DB_HOST","localhost");
+define("DB_PORT",2082);
+define("DB_USER", "berigayo_testusr");
+define("DB_PWD","01234");
+define("DB_NAME","limonetest");
+
